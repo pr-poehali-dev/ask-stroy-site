@@ -296,7 +296,7 @@ const Index = () => {
                 </div>
                 <div>
                   <h3 className="font-heading font-semibold text-xl text-secondary mb-2">Адрес офиса</h3>
-                  <p className="text-secondary/80">г. Москва, ул. Строительная, д. 15, офис 301</p>
+                  <p className="text-secondary/80">г. Краснодар, ул. Строительная 15, офис 301</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -445,7 +445,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-center gap-2">
                   <Icon name="MapPin" size={16} />
-                  <span>г. Москва, ул. Строительная, 15</span>
+                  <span>г. Краснодар, ул. Строительная 15, офис 301</span>
                 </div>
               </div>
             </div>
